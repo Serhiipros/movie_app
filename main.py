@@ -301,4 +301,4 @@ def logout():
     return redirect('/sign')
 
 
-app.run(debug=DEBUG)
+#app.run(debug=DEBUG)
